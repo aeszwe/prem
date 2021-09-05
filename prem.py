@@ -35,7 +35,9 @@ else:
 ### HEADERS ###
 
 def banner():
-    print("""By : anjarsugendro""")
+    print("""By : anjarsugendro
+
+""")
 
 ua="NokiaC3-00/5.0 (07.20) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+"
 
@@ -391,7 +393,7 @@ def follow():
 	except Exception as e:
 		exit(p+"\n ["+k+"•"+m+"•"+p+"] Error : %s"%e)
 
-### Krek Nomer su! ###
+### Crack Nomor ###
 def random_numbers():
   data = []
   print((p+"\n ["+k+"•"+m+"•"+p+"] Number Must Be 5 Digit"))
@@ -468,10 +470,10 @@ def generate(text):
 				results.append(i+"123456")
 				results.append(i)
 				if "indonesia" in ips:
-					results.append("sayang")
-					results.append("anjing")
 					results.append("bismillah")
-					results.append("freefire")
+					results.append("indonesia")
+					results.append("katasandi")
+					results.append("bintang")
 	return results
 
 ### MODULE CRACK ###
